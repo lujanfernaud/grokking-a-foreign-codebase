@@ -1,6 +1,6 @@
-# Groking the Codebase
+# Grokking a Foreign Codebase
 
-## Grok
+## grok (grŏk)
 
 > . . . to understand so thoroughly that the observer becomes a part of the observed . . .
 ― [Stranger in a Strange Land, Robert A. Heinlein](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land)
