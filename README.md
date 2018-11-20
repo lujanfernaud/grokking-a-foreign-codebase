@@ -16,3 +16,4 @@
 ## Conference Talks
 
 - [Software Archeology and The Code Of Doom - Kerri Miller (OSB 2015)](https://www.youtube.com/watch?v=2YlO9MGlrXY) `50:34`
+- [Down The Rabbit Hole: An Adventure in Legacy Code by Loren Crawford (RailsConf 2018)](https://www.youtube.com/watch?v=Dm2LdXLFrxw) `38:37`
