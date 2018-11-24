@@ -18,3 +18,7 @@
 - [Software Archeology and The Code Of Doom - Kerri Miller (OSB 2015)](https://www.youtube.com/watch?v=2YlO9MGlrXY) `50:34`
 - [Down The Rabbit Hole: An Adventure in Legacy Code by Loren Crawford (RailsConf 2018)](https://www.youtube.com/watch?v=Dm2LdXLFrxw) `38:37`
 - [Working Compassionately with Legacy Code by Amar Shah (RubyConf 2015)](https://www.youtube.com/watch?v=JC4mS7sYQlU) `35:39`
+
+## Podcast Episodes
+
+- [Reading Other People's Code with Patricia Aas (.NET Rocks! Podcast)](https://player.fm/series/net-rocks-2353294/reading-other-peoples-code-with-patricia-aas) `56:21`
