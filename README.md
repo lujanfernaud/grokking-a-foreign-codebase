@@ -20,6 +20,10 @@
 - [Working Compassionately with Legacy Code by Amar Shah (RubyConf 2015)](https://www.youtube.com/watch?v=JC4mS7sYQlU) `35:39`
 - [Reading Other People's Code by Patricia Aas (NDC Sydney 2018)](https://www.youtube.com/watch?v=mrXHf71lYrs) `55:43`
 
+### Mentioned Talks
+
+- [A Common Taxonomy of Bugs and How to Catch Them by Kylie Stradley (RubyConf AU 2017)](https://www.youtube.com/watch?v=0J5OWi65rTI) `22:58`
+
 ## Podcast Episodes
 
 - [Reading Other People's Code with Patricia Aas (.NET Rocks! Podcast)](https://player.fm/series/net-rocks-2353294/reading-other-peoples-code-with-patricia-aas) `56:21`
